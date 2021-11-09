@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BankingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/button1_back.xml" value="0.12291666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/button1_style_new.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/customer_list_button1.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/icon_background.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/myicon_background.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/send_to_customer_list_item.xml" value="0.12291666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/toast_drawable.xml" value="0.12291666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/drawable/transaction_money_button1.xml" value="0.12291666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_customer_data.xml" value="0.2" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_customers_list.xml" value="0.176" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_home_screen.xml" value="0.176" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_send_to_customer_list.xml" value="0.12" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/activity_transaction_history.xml" value="0.10677083333333333" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/customer_list_button1.xml" value="0.1" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/customers_list_item.xml" value="0.28285714285714286" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/dailog_box.xml" value="0.10677083333333333" />
+        <entry key="..\:/BankingApp/app/src/main/res/layout/transaction_history_item.xml" value="0.264" />
+        <entry key="..\:/BankingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12291666666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher2.xml" value="0.10729166666666666" />
+        <entry key="..\:/BankingApp/app/src/main/res/mipmap-anydpi-v26/icon_round.xml" value="0.1" />
+        <entry key="..\:/BankingApp/app/src/main/res/mipmap-anydpi-v26/myicon_round.xml" value="0.12291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
